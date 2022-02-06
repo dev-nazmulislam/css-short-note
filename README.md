@@ -1,6 +1,31 @@
+## Work with JavaScript
+
+- [JavaScript Tutorial beginner to advanced (Simple Note)](https://github.com/dev-nazmulislam/javascript-short-note)
+- [JavaScript Problem Solving](https://github.com/dev-nazmulislam/javaScript-problem-solving)
+- [JavaScript Function parameter handle or error control.](https://github.com/dev-nazmulislam/function-parameter-handle)
+
+## Symple projects with JavaScript
+
+- [Calculator](https://github.com/dev-nazmulislam/calculator)
+
+## Symple projects with HTML & Bootstrap
+
+- [soronika-convention](https://github.com/dev-nazmulislam/soronika-convention)
+- [niki-react](https://github.com/dev-nazmulislam/niki-react)
+
+## Symple projects with HTML & CSS
+
+- [protfolio-website](https://github.com/dev-nazmulislam/protfolio-website)
+- [support-session](https://github.com/dev-nazmulislam/support-session)
+- [mission-2022](https://github.com/dev-nazmulislam/mission-2022)
+- [menu-bar](https://github.com/dev-nazmulislam/menu-bar)
+- [influencer-products](https://github.com/dev-nazmulislam/influencer-products)
+
 # css-short-note
 
-### CSS: Cascading Style Sheets.
+### CSS Full meaning:
+
+> Cascading Style Sheets.
 
 - Text Property:
 
@@ -47,9 +72,10 @@
   > outline, margin, border, padding, content.
 
 - Float & clear:
+
   > Float: left, right, none, inherit. Clear: left, right, both, none.
 
--Selector:
+- Selector:
 
 > universal, id, class, type, descendent, direct children, grouping.
 
